@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/ARCH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/ARCH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/ARCH/value=arm
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/CROSS_COMPILE/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/CROSS_COMPILE/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/CROSS_COMPILE/value=arm-linux-gnueabihf-
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/INSTALL_MOD_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/INSTALL_MOD_PATH/operation=append
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/INSTALL_MOD_PATH/value=${ProjDirPath}/../Binarios/Kernel/Modules
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1161056157/appendContributed=true
